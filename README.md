@@ -6,7 +6,7 @@
 
 localhost:8000/docs
 
-Загруженный файл:
+Загруженный файл в базе данных:
 ![Alt text](https://github.com/GrishaRybolovel/rc_test/blob/main/database_view.png)
 
 Получаемый файл с суммами:
